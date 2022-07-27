@@ -21,9 +21,9 @@
 		"metadata": {
 			"name": "Sacrificed Primate #1",
 			"symbol": "CSK",
-			"description": "666 Candlesticks by UwDegens. Change your pfp to something better. Airdrop for UwDegens holders",
+			"description": "Sacrificed Primate #1 it is a combination of primate with pop art. This NFT is unique",
 			"seller_fee_basis_points": 1000,
-			"image": "https://arweave.net/83-ITbjG1RKQYUDB7nH0kfrxMioNkq3LD8kCfaghfAY",
+			"image": "https://raw.githubusercontent.com/UnderSand/Candlesticks/main/KILLAM.png",
 			"external_url": "",
 			"attributes": [
 				{
@@ -34,7 +34,7 @@
 			"properties": {
 				"files": [
 					{
-						"uri": "https://arweave.net/83-ITbjG1RKQYUDB7nH0kfrxMioNkq3LD8kCfaghfAY",
+						"uri": "https://raw.githubusercontent.com/UnderSand/Candlesticks/main/KILLAM.png",
 						"type": "image/png"
 					}
 				],
