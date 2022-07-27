@@ -1,51 +1,18 @@
-[
-	{
-		"tokenData": {
-			"name": "Sacrificed Primate #1",
-			"symbol": "CSK",
-			"uri": "https://arweave.net/NHtHUmILYxaXZKjJKMvkkdsrTDc0aZqkvgnbGYKj16s",
-			"sellerFeeBasisPoints": 1000,
-			"creators": [
-				{
-					"share": 0,
-					"address": {"B9919DtYXRPwsb5NLxnvGLyFY3DbSZ7HYMg752kVv1Tu"},
-					"verified": true
-				},
-				{
-					"share": 100,
-					"address": {"49B58UCHRco3UdHoboCNd3GjACB52iAbRg945GriZvnH"},
-					"verified": false
-				}
-			]
-		},
-		"metadata": {
-			"name": "Sacrificed Primate #1",
-			"symbol": "CSK",
-			"description": "Sacrificed Primate #1 it is a combination of primate with pop art. This NFT is unique",
-			"seller_fee_basis_points": 1000,
-			"image": "https://raw.githubusercontent.com/UnderSand/Candlesticks/main/KILLAM.png",
-			"external_url": "",
-			"attributes": [
-				{
-					"trait_type": "Sacrificed Primates",
-					"value": "#1"
-				}
-			],
-			"properties": {
-				"files": [
-					{
-						"uri": "https://raw.githubusercontent.com/UnderSand/Candlesticks/main/KILLAM.png",
-						"type": "image/png"
-					}
-				],
-				"creators": [
-					{
-						"address": "49B58UCHRco3UdHoboCNd3GjACB52iAbRg945GriZvnH",
-						"share": 100
-					}
-				]
-			}
-		},
-		"mint": "6SvGB9DVCPNTW85mzNxQnsyhtdq6U4oNGGHC8r88HW9G"
-	}
-]
+{
+    "creators": [
+        {
+            "address": "B9919DtYXRPwsb5NLxnvGLyFY3DbSZ7HYMg752kVv1Tu",
+            "share": 0,
+            "verified": true
+        },
+        {
+            "address": "49B58UCHRco3UdHoboCNd3GjACB52iAbRg945GriZvnH",
+            "share": 100,
+            "verified": false
+        }
+    ],
+    "name": "Sacrificed Primate #1",
+    "seller_fee_basis_points": 1000,
+    "symbol": "CSK",
+    "uri": "https://raw.githubusercontent.com/UnderSand/Candlesticks/main/KILLAM.png"
+}
