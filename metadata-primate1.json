@@ -1,4 +1,8 @@
 {
+     "name": "Sacrificed Primate #1",
+    "seller_fee_basis_points": 1000,
+    "symbol": "CSK",
+    "uri": "https://raw.githubusercontent.com/UnderSand/Candlesticks/main/KILLAM.png",
     "creators": [
         {
             "address": "B9919DtYXRPwsb5NLxnvGLyFY3DbSZ7HYMg752kVv1Tu",
@@ -10,9 +14,5 @@
             "share": 100,
             "verified": false
         }
-    ],
-    "name": "Sacrificed Primate #1",
-    "seller_fee_basis_points": 1000,
-    "symbol": "CSK",
-    "uri": "https://raw.githubusercontent.com/UnderSand/Candlesticks/main/KILLAM.png"
+    ]
 }
