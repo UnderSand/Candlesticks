@@ -1,0 +1,51 @@
+[
+	{
+		"tokenData": {
+			"name": "Candlestick #232",
+			"symbol": "CSK",
+			"uri": "https://arweave.net/NHtHUmILYxaXZKjJKMvkkdsrTDc0aZqkvgnbGYKj16s",
+			"sellerFeeBasisPoints": 1000,
+			"creators": [
+				{
+					"share": 0,
+					"address": {"B9919DtYXRPwsb5NLxnvGLyFY3DbSZ7HYMg752kVv1Tu"},
+					"verified": true
+				},
+				{
+					"share": 100,
+					"address": {"49B58UCHRco3UdHoboCNd3GjACB52iAbRg945GriZvnH",},
+					"verified": false
+				}
+			]
+		},
+		"metadata": {
+			"name": "Sacrificed Primate #1",
+			"symbol": "CSK",
+			"description": "666 Candlesticks by UwDegens. Change your pfp to something better. Airdrop for UwDegens holders",
+			"seller_fee_basis_points": 1000,
+			"image": "https://arweave.net/83-ITbjG1RKQYUDB7nH0kfrxMioNkq3LD8kCfaghfAY",
+			"external_url": "",
+			"attributes": [
+				{
+					"trait_type": "Primates",
+					"value": "#1"
+				}
+			],
+			"properties": {
+				"files": [
+					{
+						"uri": "https://arweave.net/83-ITbjG1RKQYUDB7nH0kfrxMioNkq3LD8kCfaghfAY",
+						"type": "image/png"
+					}
+				],
+				"creators": [
+					{
+						"address": "49B58UCHRco3UdHoboCNd3GjACB52iAbRg945GriZvnH",
+						"share": 100
+					}
+				]
+			}
+		},
+		"mint": "6SvGB9DVCPNTW85mzNxQnsyhtdq6U4oNGGHC8r88HW9G"
+	}
+]
